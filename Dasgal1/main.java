@@ -1,4 +1,4 @@
-public class Main {
+public class main {
     public static void main(String[] args) {
         Car car = new Car("Toyota", "Corolla", 2020, "Petrol", 15.0, 5);
 
